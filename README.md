@@ -1,4 +1,4 @@
-# Instagram Simple Frontend
+# Instagram Clone Simple Frontend
 
 I am a student in udacity cloud engineering nanodegree.
 This instagram clone is a simple cloud application developed along side the Udacity Cloud Engineering Nanodegree. It allows users to register and log into a web client, post photos to the feed, and process photos using an image filtering microservice.
